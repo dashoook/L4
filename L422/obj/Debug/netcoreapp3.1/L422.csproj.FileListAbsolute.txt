@@ -1,0 +1,13 @@
+C:\Users\userPC\source\repos\L422\L422\bin\Debug\netcoreapp3.1\L422.exe
+C:\Users\userPC\source\repos\L422\L422\bin\Debug\netcoreapp3.1\L422.deps.json
+C:\Users\userPC\source\repos\L422\L422\bin\Debug\netcoreapp3.1\L422.runtimeconfig.json
+C:\Users\userPC\source\repos\L422\L422\bin\Debug\netcoreapp3.1\L422.runtimeconfig.dev.json
+C:\Users\userPC\source\repos\L422\L422\bin\Debug\netcoreapp3.1\L422.dll
+C:\Users\userPC\source\repos\L422\L422\bin\Debug\netcoreapp3.1\L422.pdb
+C:\Users\userPC\source\repos\L422\L422\obj\Debug\netcoreapp3.1\L422.csprojAssemblyReference.cache
+C:\Users\userPC\source\repos\L422\L422\obj\Debug\netcoreapp3.1\L422.csproj.CoreCompileInputs.cache
+C:\Users\userPC\source\repos\L422\L422\obj\Debug\netcoreapp3.1\L422.AssemblyInfoInputs.cache
+C:\Users\userPC\source\repos\L422\L422\obj\Debug\netcoreapp3.1\L422.AssemblyInfo.cs
+C:\Users\userPC\source\repos\L422\L422\obj\Debug\netcoreapp3.1\L422.dll
+C:\Users\userPC\source\repos\L422\L422\obj\Debug\netcoreapp3.1\L422.pdb
+C:\Users\userPC\source\repos\L422\L422\obj\Debug\netcoreapp3.1\L422.genruntimeconfig.cache

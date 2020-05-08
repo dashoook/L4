@@ -114,16 +114,16 @@ namespace L41
             string k = "";
             if (R > 90)
             {
-                k = "Вiтаємо вiдмiнника!";
+                k = "Congratulations to A-student!";
             }
 
             else if (R>75 && R < 90 )
             {
-                k = "Можна вчитися краще";   
+                k = "You can study better";   
             }
             else if (R < 75)
             {
-                k = "Варто бiльше уваги придiляти навчанню";  
+                k = "You must pay more attention to education";  
             }
             return k;
         }

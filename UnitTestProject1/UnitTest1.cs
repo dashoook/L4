@@ -18,9 +18,9 @@ namespace UnitTestProject1
             string student1Message = Student.StudentRating(95);
             string student2Message = Student.StudentRating(76);
             string student3Message = Student.StudentRating(60);
-            Assert.AreEqual("Вiтаємо вiдмiнника!", student1Message);
-            Assert.AreEqual("Можна вчитися краще", student2Message);
-            Assert.AreEqual("Варто бiльше уваги придiляти навчанню", student3Message);
+            Assert.AreEqual("Congratulations to A-student!", student1Message);
+            Assert.AreEqual("You can study better", student2Message);
+            Assert.AreEqual("You must pay more attention to education", student3Message);
         }
     }
 }

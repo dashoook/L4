@@ -1,0 +1,13 @@
+F:\C#\L43\L43\bin\Debug\netcoreapp3.1\L43.exe
+F:\C#\L43\L43\bin\Debug\netcoreapp3.1\L43.deps.json
+F:\C#\L43\L43\bin\Debug\netcoreapp3.1\L43.runtimeconfig.json
+F:\C#\L43\L43\bin\Debug\netcoreapp3.1\L43.runtimeconfig.dev.json
+F:\C#\L43\L43\bin\Debug\netcoreapp3.1\L43.dll
+F:\C#\L43\L43\bin\Debug\netcoreapp3.1\L43.pdb
+F:\C#\L43\L43\obj\Debug\netcoreapp3.1\L43.csprojAssemblyReference.cache
+F:\C#\L43\L43\obj\Debug\netcoreapp3.1\L43.csproj.CoreCompileInputs.cache
+F:\C#\L43\L43\obj\Debug\netcoreapp3.1\L43.AssemblyInfoInputs.cache
+F:\C#\L43\L43\obj\Debug\netcoreapp3.1\L43.AssemblyInfo.cs
+F:\C#\L43\L43\obj\Debug\netcoreapp3.1\L43.dll
+F:\C#\L43\L43\obj\Debug\netcoreapp3.1\L43.pdb
+F:\C#\L43\L43\obj\Debug\netcoreapp3.1\L43.genruntimeconfig.cache
